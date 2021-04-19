@@ -1,9 +1,10 @@
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&family=Zen+Dots&display=swap");
 
 @import "reset.css";
-@import "components/status-bar.css";
-/* Components */
 @import "variables.css";
+/* Components */
+
+@import "components/status-bar.css";
 @import "components/nav-bar.css";
 @import "components/screen-header.css";
 @import "components/user-component.css";
